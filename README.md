@@ -1,8 +1,8 @@
 Этот проект использует React и Google Chart JS для визуализации данных. 
+Перед запуском проекта необходимо выполнить команду npm install -  она установит все зависимости из package.json
+После этого можно выполнять стандартый запуск проекта через npm start
 
-npm install - установит все зависимости из package.json
-
-npm install react google-charts - установит библиотеку Google Chart JS, если вдруг  он не подтянется после первой команды
+* команда npm install react google-charts - установит библиотеку Google Chart JS, если вдруг  он не подтянется после первой команды
 
 
 # Getting Started with Create React App
