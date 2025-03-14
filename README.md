@@ -2,7 +2,7 @@
 
 npm install - установит все зависимости из package.json
 
-mpm install react google-charts - установит библиотеку Google Chart JS, если вдруг  он не подтянется после первой команды
+npm install react google-charts - установит библиотеку Google Chart JS, если вдруг  он не подтянется после первой команды
 
 
 # Getting Started with Create React App
